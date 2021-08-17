@@ -52,3 +52,10 @@ Second part of the Shareable SpreadSheet app project - implements a GUI for a Sp
 - Set Cell - Asks the user to enter row and column first:
 ![image](https://user-images.githubusercontent.com/66309521/129692459-32a753ae-ac4d-4b5b-a486-b01f1984d74b.png)
 
+- Search String:
+![image](https://user-images.githubusercontent.com/66309521/129692769-cf531b15-4b74-4ff6-839d-c536cb6ced20.png)
+![image](https://user-images.githubusercontent.com/66309521/129692813-f77252a0-4400-4847-bfef-438ba318038b.png)
+
+- Add Row:
+![image](https://user-images.githubusercontent.com/66309521/129692924-0066877f-6a61-4a46-b6ce-5a07fdbfa2b7.png)
+![image](https://user-images.githubusercontent.com/66309521/129692960-d9d3a5ab-005d-4a28-949e-bd3354474149.png)
