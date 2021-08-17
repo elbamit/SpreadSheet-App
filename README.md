@@ -28,6 +28,8 @@ Second part of the Shareable SpreadSheet app project - implements a GUI for a Sp
 ## ScreenShots
 
 - Opening message:
+
+
 ![image](https://user-images.githubusercontent.com/66309521/129691705-76af15a0-a464-49c0-9eaa-cae19e80612d.png)
 
 
