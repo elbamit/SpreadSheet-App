@@ -2,8 +2,7 @@
 
 Implementation of the GUI part of the SpreadSheet for OS course in SISE department of BGU University.
 
-![image](https://user-images.githubusercontent.com/66309521/129687922-28ae3aa3-dd45-4904-8490-c7000aeae6d6.png)
-
+![image](https://user-images.githubusercontent.com/66309521/129691455-d1cae55b-cf90-46e3-9461-baa76917de76.png)
 
 
 ## Table of Content
@@ -27,3 +26,21 @@ Second part of the Shareable SpreadSheet app project - implements a GUI for a Sp
 
 
 ## ScreenShots
+
+- Opening message:
+![image](https://user-images.githubusercontent.com/66309521/129691705-76af15a0-a464-49c0-9eaa-cae19e80612d.png)
+
+- SpreadSheet initialization:
+![image](https://user-images.githubusercontent.com/66309521/129691840-5643471f-b61a-4858-a93f-0b5824a920d2.png)
+![image](https://user-images.githubusercontent.com/66309521/129691891-5ac1737b-e14d-4cce-947c-3d1557fa0b1b.png)
+![image](https://user-images.githubusercontent.com/66309521/129691947-a4fc7781-2737-47d1-a2e8-f626d6ba3028.png)
+
+![image](https://user-images.githubusercontent.com/66309521/129692002-60a43e2a-c343-4985-9461-6813f6bf1385.png)
+
+
+- Load/Save:
+![image](https://user-images.githubusercontent.com/66309521/129692169-10f9cf5f-5084-414d-82f6-670418b412bb.png)
+
+- Set Cell - Asks the user to enter row and column first:
+![image](https://user-images.githubusercontent.com/66309521/129692459-32a753ae-ac4d-4b5b-a486-b01f1984d74b.png)
+
