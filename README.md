@@ -30,7 +30,13 @@ Second part of the Shareable SpreadSheet app project - implements a GUI for a Sp
 - Opening message:
 ![image](https://user-images.githubusercontent.com/66309521/129691705-76af15a0-a464-49c0-9eaa-cae19e80612d.png)
 
+
+
 - SpreadSheet initialization:
+
+
+
+
 ![image](https://user-images.githubusercontent.com/66309521/129691840-5643471f-b61a-4858-a93f-0b5824a920d2.png)
 ![image](https://user-images.githubusercontent.com/66309521/129691891-5ac1737b-e14d-4cce-947c-3d1557fa0b1b.png)
 ![image](https://user-images.githubusercontent.com/66309521/129691947-a4fc7781-2737-47d1-a2e8-f626d6ba3028.png)
